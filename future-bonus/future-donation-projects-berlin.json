@@ -1,0 +1,157 @@
+{
+  "success": true,
+  "data": [
+    {
+      "title": "Himmelbeet",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true
+        }
+      },
+      "description": "Das himmelbeet ist ein offener Gemeinschaftsgarten im Berliner Stadtteil Wedding. Mit Hilfe vieler ehrenamtlicher Helfer*innen ist es seit 2013 gelungen, in direkter Nähe des vielseitig genutzten Leopoldplatzes eine neue öffentliche und grüne Begegnungsstätte für soziales Engagement und Bildung zu schaffen, welche Besucher*innen zum Mitmachen und Mitgestalten einlädt. Der Gemeinschaftsgarten bietet neben Themen der Umweltbildung auch Raum für eine Vielzahl nachbarschaftlicher Projekte.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://himmelbeet.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/07/himmelbeet_Pressebilder_Gemeinschaftsgarten-himmelbeet-im-sommer_2017-1-1024x576.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "SEND - Social Entrepreneurship Netzwerk Deutschland e.V.",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true
+        }
+      },
+      "description": "Sozialunternehmen haben das Potenzial unsere Gesellschaft nachhaltig zu verändern. Mit ihren innovativen und zukunftsgerichteten Lösungen packen sie Herausforderungen wie Kinder- und Altersarmut, den Klimawandel oder die Digitalisierung an der Wurzel. Als Netzwerk gibt SEND diesen Unternehmen eine gemeinsame Stimme und setzt sich für bessere Rahmenbedingungen ein. Denn es geht um #GemeinsamWirken!",
+
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.send-ev.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/07/SEND_Team_Vorstand-1024x683.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+	{
+      "title": "GemüseAckerdemie",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true
+        }
+      },
+      "description": "Kleine Racker auf den Acker! In der GemüseAckerdemie säen, pflegen und ernten Kinder und Jugendliche ihr eigenes Gemüse. Dabei erleben sie, wo Lebensmittel herkommen und wie diese wachsen. Ziel ist es, sie für gesunde Ernährung, Natur und Nachhaltigkeit zu begeistern. Unser Ziel ist eine Generation, die weiß, was sie isst!",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.gemueseackerdemie.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/07/Ackerdemia-1024x684.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    }
+	,
+	{
+      "title": "Restlos Glücklich",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true
+        }
+      },
+      "description": "Der gemeinnützige Verein RESTLOS GLÜCKLICH engagiert sich für mehr Wertschätzung und bewussten Konsum von Lebensmitteln. Mit kreativen Bildungsangeboten und Workshops in Schulen, der Nachbarschaft, an öffentlichen Orten und im Netz sensibilisieren sie Kinder und Erwachsene für einen nachhaltigeren Umgang mit Lebensmitteln in der Küche und setzen sich damit aktiv gegen Lebensmittelverschwendung und die folgenschweren Nebeneffekte für das Klima ein.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.restlos-gluecklich.berlin/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/07/Restlos-Glu%CC%88cklich_Copyright_Joris-Felix-Patzschke.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+	{
+      "title": "Prinzessinnengarten Kollektiv Berlin",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true
+        }
+      },
+      "description": "Das Prinzessinnengarten Kollektiv Berlin ist ein selbstorganisierter offener Lernort mit Gemeinschaftsgarten zum Mitmachen und Beteiligen. In Workshops, Gartenarbeitstagen und Projekten engagieren sie sich für den Aufbau weiterer urbaner Gärten, den ökologischem Anbau von Nutzpflanzen, biologische Vielfalt, Stadtökologie und zukunftsfähige Formen städtischen Lebens.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "http://prinzessinnengarten-kollektiv.net/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/07/Prinzessinnenga%CC%88rten_Nomadisch_Gru%CC%88n-1024x683.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+	{
+      "title": "Refugio Berlin - eine wahrhaft gelebte Utopie",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true
+        }
+      },
+      "description": "Refugio ist ein integratives Flüchtlingsprojekt der Berliner Stadtmission. Im Refugio leben und arbeiten auf sechs Etagen Neu- und Altberliner*innen miteinander. Menschen aus mehr als 10 Nationen begegnen sich hier auf Augenhöhe. Im Refugio Berlin sind Geflüchtete nicht auf die Rolle fixiert, die ihnen unsere Gesellschaft zuweist, sondern sind selbst Gastgeber*innen, z. B. im Refugio Café, das von Bewohner*innen und Ehrenamtlichen betrieben wird.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://refugio.berlin/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/07/Refugio-Sharehaus_klein-1024x1017.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    }
+  ]
+}
