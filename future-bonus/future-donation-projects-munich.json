@@ -1,0 +1,282 @@
+{
+  "success": true,
+  "data": [
+    {
+      "title": "Einmal ohne, bitte!",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true
+        }
+      },
+      "description": "Überall unverpackt einkaufen – mit YEAH statt BUH! „Einmal ohne, bitte“ holt das Einkaufen mit eigenen Behältnissen aus der Öko-Nische und macht es für jede*n möglich. Egal ob beim Metzger, Bäcker oder Imbiss: das Label macht nachhaltige Geschäfte sichtbar und bewegt zum Umdenken.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://einmalohnebitte.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/06/Einmalohnebitte%C2%A9Svenja-H%C3%BCbinger_bearb-987x1024.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "Olytopia – Das grüne Dorf in der Stadt",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true
+        }
+      },
+      "description": "Gemeinsam mit Bewohner*innen und Interessierten nachhaltige Alternativen ausprobieren, kleine und große Dinge im Alltag umstellen, verschiedene Aktionen und Veranstaltungen organisieren, Menschen zusammenbringen und Herausforderungen meistern – das sind die Ziele von Olytopia für das Olympiadorf!",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://olytopia.de"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/06/Olytopia%C2%A9Tizian-Unkauf-1024x683.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "Klimaherbst",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true
+        }
+      },
+      "description": "Der Verein Netzwerk Klimaherbst bringt Institutionen, Vereine, Organisationen, und Stiftungen mit Wissenschaft, ausgewählten Akteuren der freien Wirtschaft sowie (Stadt-)Verwaltung und -Politik zusammen, um eine nachhaltige Lebensweise in München und darüber hinaus zu etablieren.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.klimaherbst.de"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/06/IMG_20191010_183715-1024x768.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+	{
+      "title": "Upcycle Your Style – Kleidertauschparty",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true
+        }
+      },
+      "description": "Das Projekt verändert den Modekonsum nachhaltig und trägt damit zum Klimaschutz bei. Eine interaktive Info-Ausstellung zeigt die Probleme der Modeindustrie und vermittelt Lösungen. Tauschen statt Kaufen ist das Motto und damit Ressourcen schonen. Wenn etwas nicht passt oder defekt ist, werden in der NähDisko Fähigkeiten erlernt und Kleidung langlebiger gemacht.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.greencity.de/projekt/upcycle-your-style-kleidertauschparty/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/06/Projekt_Upcycle_Your_Style_Daniel_Zirpel-1024x683.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+	{
+      "title": "Grünpaten",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true
+        }
+      },
+      "description": "Ihr möchtet euren kleinen Grünstreifen vor eurer Haustür zum Blühen bringen? Als Grünpat*innen macht ihr alle glücklich! Pflanzen und Wissen gibt’s geliefert bepflanzt wird gemeinsam mit Freunden, Nachbarn und uns. Jetzt seid ihr Paten und dürft allen zeigen, was hier wächst! Dadurch erhöht ihr die Biodiversität und fördert zusätzlich die sozialen Kontakte in eurem Viertel.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.greencity.de/projekt/gruenpaten/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/06/Projekt_Gr%C3%BCnpaten_Frundsbergerstra%C3%9Fe_Pawaserat-24-bearb-1013x1024.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+	{
+      "title": "Green City-Gemeinschaftsgärten",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true
+        }
+      },
+      "description": "Baue Gemüse, Kräuter oder Wildblumen in deinem eigenen kleinen Beet an. Du hast in den Gemeinschaftsgärten von Green City die Chance, endlich mal selbst Gärtner*in zu spielen. Dadurch beteiligst du dich an der Münchner Stadtgestaltung, erhöhst die Pflanzenvielfalt, lernst verschiedene Anbaumethoden kennen und obendrein gehören die Erträge deines Beetes dir.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.greencity.de/projekt/gemeinschaftsgaerten/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/06/Projekt_Essbare-Stadt_Johanna-Schneller-1024x576.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    }
+	  ,
+    {
+      "title": "Abfall sucht Eimer!",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true
+        }
+      },
+      "description": "Kippen, Kronkorken & Co – mit spaßigen Aktionen und Kampagnen sammelt das Projektteam auch gegen den kleinsten Müll an! So organisieren sie regelmäßig CleanUps und Plogging-Aktionen oder denken sich Challenges aus. Derzeit tüfteln sie außerdem an ihrem Kippomaten, einem Abstimmungsbehälter für Kippenstummel.",
+
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://rehab-republic.de/thema/projekte/rethink-muell/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/06/Foto_Kleinstm%C3%BCll-1024x532.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+	{
+      "title": "#beschwerbung",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true
+        }
+      },
+      "description": "Werbung ist witzig & informativ oder nervig & irreführend? Auf jeden Fall lässt sie uns nicht kalt. Sie ist omnipräsent, prägt unsere Lebensanschauung und hat Folgen für die Umwelt. #beschwerbung beschäftigt sich mit diesen Konsequenzen und schafft Gelegenheit, mit Werbung in einen Dialog zu treten.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://beschwerbung.org/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/06/Foto_beschwerbung-1024x678.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+	{
+      "title": "Bellevue di Monaco",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true
+        }
+      },
+      "description": "Das Bellevue di Monaco ist ein neugegründetes Wohn- und Kulturzentrum für Geflüchtete und interessierte Münchner*innen im Herzen der Stadt. Neben den Wohnungen gibt es ein von Geflüchteten mitbetriebenes Infocafé und Kulturräume, wo vielfältige Beratungs-, Sprachangebote und Kulturprogramme stattfinden.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.bellevuedimonaco.de"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/06/Bellevue_di_Monaco-inhabitants_and_team-bearb2-1024x649.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+	{
+      "title": "Tierschutz macht Spaß!",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true
+        }
+      },
+      "description": "Tierschutz macht Spaß! ist ein Projekt von ANIMALS UNITED e.V. und umfasst Tierschutzunterricht und Vorträge zu Tierrechts- und Tierschutzthemen, vor allem an Münchner Schulen. Unser Ziel ist es, das Bewusstsein junger Menschen für Tiere und ihre Rechte zu fördern. Durch unsere qualifizierten Tierschutzlehrer*innen werden Tierschutzproblematiken altersgerecht und pädagogisch aufgearbeitet, mit den Schüler*innen besprochen und gemeinsam Lösungsansätze diskutiert.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.facebook.com/tierschutzmachtspass/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/07/tierschutzmachtspass_bearb-1024x724.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+	{
+      "title": "o’pflanzt is!",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true
+        }
+      },
+      "description": "o’pflanzt is! ist ein urbaner Gemeinschaftsgarten und gemeinnütziger Verein,  in dem alle gemeinsam ökologisch, nachhaltig und klimafreundlich gärtnern. Jeden 1. Samstag im Monat ist “offener Gartltag”, bei dem Jede*r herzlich willkommen ist. Ihr findet o’pflanzt is! im Olympiapark, gleich neben ihrem Kooperationspartner der Montessori Schule.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://o-pflanzt-is.de/gemeinschaftsgarten-erblueht-neu-im-olympiapark/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/07/opflanzt-is_1-1024x682.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    }
+  ]
+}
