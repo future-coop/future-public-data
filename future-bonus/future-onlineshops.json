@@ -1,0 +1,470 @@
+{
+  "success": true,
+  "data": [
+    {
+      "needs": [
+        "klamottenkaufen",
+        "eisessengehen"
+      ],
+      "id": "1931c938-bf7d-4635-9a72-514e302bd1ba",
+      "title": "Pyua",
+      "additionalProperties": {
+        "future": {
+          "partneredAt": "2020-07-31T12:00:00.000+02:00",
+          "isPartner": true,
+          "partnerDiscount": 0.15,
+          "bonusCode": "FUTUREBONUS"
+        }
+      },
+      "description": "PYUA produziert seit 2008 nachhaltige Funktions- und Outdoorkleidung. Die Produkte sind aus recycelten Materialien und vollständig recycelbar, ganz nach dem Motto „Minimize your tracks“.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://pyua.de"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/05/Pyua3.png",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "Folkdays",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "bonusCode": "FUTUREBONUS"
+        }
+      },
+      "description": "FOLKDAYS bietet Fair Fashion, Accessoires, Schmuck und Interior-Produkte mit anspruchsvollem, zeitgenössischen Design. Das kleine Berliner Team pflegt direkte und persönliche Beziehungen zu ihren Artisans weltweit.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://folkdays.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/04/Mood_FOLKDAYS-002.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "SIRPLUS",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.05,
+          "bonusCode": "FUTURE5"
+        }
+      },
+      "description": "Dit is doch noch jut! Mit deinem Einkauf bei SIRPLUS bekämpfst du die Lebensmittelverschwendung. Durch die direkte Zusammenarbeit mit 700 Produzent*innen und Großhändler*innen gelingt es SIRPLUS, wertvolle Lebensmittel zu retten, die die Tafeln nicht verwenden können, die aber bestens genießbar sind. Hinweis: Mindestbestellwert 34,90€. Beim Kauf eines Abonnements gültig für die erste Bestellung.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": " https://sirplus.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/06/sirplus_veggie_2_1200-1.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "Champagne Characters",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "bonusCode": "FUTUREBONUS"
+        }
+      },
+      "description": "Nicht alle, aber viele der Champagner, die du hier findest, sind Bio bzw. die Weingüter sind gerade in der Umstellung. Gerade in der Champagne hat sich der ökologische Anbau noch nicht durchgesetzt, umso bemerkenswerter das Angebot von Champagne Characters! Viel Wert wird zudem auf die persönliche Zusammenarbeit mit den Weinbauern gelegt. Für alle die gerne etwas Besonderes genießen, dies aber nicht mit Prestige verbinden, sondern mit Handwerk, Passion und individueller Philosophie.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.champagne-characters.com/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/05/Champagne-Characters-Laden-scaled.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "Fair Couture",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "bonusCode": "FUTUREBONUS"
+        }
+      },
+      "description": "Fair Couture ist Spezialist für nachhaltige Rucksäcke und Fairtrade Taschen. Das Angebot reicht von etablierten Fair Fashion Marken über vegane Taschen bis hin zu nachhaltigen Neuheiten aus Recycling & Upcyling Materialien.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://faircouture.com/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/08/rucksaecke-made-in-germany-online-kaufen.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "Goldeimer",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "bonusCode": "FUTUREBONUS"
+        }
+      },
+      "description": "Goldeimer ist das soziale Klopapier. 100% der Gewinne und jede Arbeitsstunde werden gemeinnützig eingesetzt – für Sanitärprojekte im In- und Ausland und für Aufklärung und Forschung rund um das Klo. Noch immer haben 4,2 Mrd. Menschen weltweit keinen Zugang zu einer gesicherten Sanitärversorgung. Mit dem Einkauf bei Goldeimer bringst du das Thema in die Öffentlichkeit und unterstützt die Vision: „Alle für Klos! Klos für alle! (Bonus Code gilt nicht für das ABO und die Palette).",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://goldeimer.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/09/Goldeimer-Foto_Timo-Voss-002.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "Holledauer Seifenrausch",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.08,
+          "bonusCode": "SEIFENBONUS"
+        }
+      },
+      "description": " Schöne Auswahl an handgefertigten Seifen, selbstverständlich ohne Plastik/Mikroplastik, Konservierungsstoffe und frei von Palmöl. Die Seifen werden in der Seifenküche mit ausgesuchten Bio-Ölen von Hand hergestellt. Wo immer möglich sind die Öle lokal und regional eingekauft. Laborgeprüft ist die Qualität natürlich auch.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": " https://seifenrausch.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": " https://future.coop/wp-content/uploads/2020/06/IMG_20200504_152641_resized_20200609_064207220-1-scaled.jpg ",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "Jesango",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.15,
+          "bonusCode": "FUTUREBONUS"
+        }
+      },
+      "description": "jesango ist die erste Shopping-Community für faire Mode & nachhaltigen Lifestyle. Hier findest du etablierte Brands und Newcomer Marken, für Frauen, Männer, Kinder und dein Zuhause. Jesango unterstützt mit jeder Bestellung gemeinnützige Projekte und arbeitet an einer transparenten Wertschöpfungskette.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.jesango.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/05/Jesango.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "Leelas",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "bonusCode": "FUTUREBONUS"
+        }
+      },
+      "description": "Bei Leelas findest du schöne Geschenke, Lieblingsstücke und kleine Kunstwerke. Sorgfältig ausgewählt, nachhaltig produziert, fair gehandelt.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.leelas.shop/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/04/Startbild_Leelas2.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "Lumbono",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "bonusCode": "FUTUREBONUS"
+        }
+      },
+      "description": "Eine Stehleuchte made in München? Eine Wandleuchte aus einem weitgereisten Segel oder Kaffeesack? Lumbono kreiert stylische Lampen-Unikate in einer Kombination aus Design und Nachhaltigkeit die seines gleichen sucht.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://lumbono.com/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": " https://future.coop/wp-content/uploads/2020/07/lumbono-coole-lampen.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "Maqu Store & Studio",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "bonusCode": "MAQUFORFUTURE"
+        }
+      },
+      "description": "Die Maqu Kollektionen sind ein Mix aus Kunst, Design und Praktikabilität – nachhaltig in jeglicher Hinsicht: sozial, ökologisch und voller Liebe. Produziert wird fair in Deutschland und Peru aus besonders feiner Pima-Bio-Baumwolle, Alpaka- und Schafwolle artgerecht gehaltener Tiere, sowie aus Tencel/Lyocell.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": " https://www.bymaqu.com/shop"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": " https://future.coop/wp-content/uploads/2020/09/Bildderbesitzerinimshop-scaled.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "Nordery",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "bonusCode": "PQH2S60TCKH3"
+        }
+      },
+      "description": "Bei Nordery findest du nachhaltige Wohndekoration und Home Accessoires im nordischen Designstil sowie ausgewählte Naturkosmetik. Der Bonus gilt nicht für Bücher und Versand.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.nordery.com/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/05/N_Atelier_Poster_Poster_Nombre_01_Cmidnatt.png",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "Die Praxis",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.2,
+          "bonusCode": "Bitte Futuremitgliedschaft bei der Anmeldung erwähnen"
+        }
+      },
+      "description": "Amtsartztüberprüfung bestehen? Psychopathologisches Wissen für Coaches aufbauen? 'Die Praxis' bietet eine Weiterbildung 'Psychotherapie für Heilpraktiker*innen' online oder auch in Präsenz am schönen Ammersee. Maya Heinrichmeier und Team legen großen Wert auf nachhaltiges Handeln und durchlaufen gerade die GWÖ Zertifizierung.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.mayaheinrichmeier.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/08/maya_porträt2.jpeg-scaled.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "Solaris Bio Tee",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "bonusCode": "FUTUREBONUS"
+        }
+      },
+      "description": "Ganzblatt Spitzen-Tees und Kräutermischungen aus biologischem Anbau - lose und im biologisch abbaubaren Teebeutel. Einfach geniessen.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.goodearthgoods.de/collections"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/04/Solaris-Biotee.png",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "Trübenecker",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.05,
+          "bonusCode": "FUTUREBONUS"
+        }
+      },
+      "description": "Frisches Obst und Gemüse direkt vom Bio-Landwirt zu dir nach Hause oder ins Office. Du entscheidest selbst was in deine Bio Box kommt. Von regionalen, alten Gemüsesorten bis hin zu fairgehandelten, exotischen Früchten findest du bei Trübenecker alles was das Fruitlover-Herz begehrt. Von bunt bis krumm, von süß bis sauer, von groß bis klein: Authentisches, natürliches Obst & Gemüse frisch vom Feld. Geliefert wird in München direkt, ansonsten per UPS.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.truebenecker.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": " https://future.coop/wp-content/uploads/2020/06/1-PC.jpg ",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "ver.de BIKE",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.08,
+          "bonusCode": "FUTURE01"
+        }
+      },
+      "description": "Diebstahlschutz für dein Fahrrad geht auch anders: Nämlich nachhaltig, sozial, transparent, gemeinwohl-orientiert und genossenschaftlich. Jeder Euro Beitrag spart 2kg CO2.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://bike.ver.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/06/samstag-2099-1024x683-1.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "Zurück",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "bonusCode": "FUTUREBONUS"
+        }
+      },
+      "description": "ZURÜCK ist ein kleiner, feiner Zero Waste Shop. Hier findest Du ausschließlich Textilupcycling, zum Beispiel Stoffservietten. Nach dem Motto: Wegwerfprodukte durch Mehrweglösungen ersetzen.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://zurueck.info/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/09/zurueck-bild.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    }
+  ]
+}
