@@ -3,8 +3,7 @@
   "data": [
     {
       "needs": [
-        "klamottenkaufen",
-        "eisessengehen"
+        "klamottenkaufen"
       ],
       "id": "1931c938-bf7d-4635-9a72-514e302bd1ba",
       "title": "Pyua",
@@ -35,9 +34,15 @@
       ]
     },
     {
+      "needs": [
+        "klamottenkaufen",
+        "zuhauseeinrichten"
+      ],
+      "id": "4eb6e9bb-2355-44ec-92d3-c8e34817b2ba",
       "title": "Folkdays",
       "additionalProperties": {
         "future": {
+          "partneredAT": "2020-07-31T12:00:00.000+02:00",
           "isPartner": true,
           "partnerDiscount": 0.1,
           "bonusCode": "FUTUREBONUS"
@@ -62,9 +67,16 @@
       ]
     },
     {
+      "needs": [
+        "lebensmittelbesorgen",
+        "putzenundwaschen",
+        "sichpflegen"
+      ],
+      "id": "d5472baf-9db4-454c-8a4d-263fb561d622",
       "title": "SIRPLUS",
       "additionalProperties": {
         "future": {
+          "partneredAT": "2020-07-31T12:00:00.000+02:00",
           "isPartner": true,
           "partnerDiscount": 0.05,
           "bonusCode": "FUTURE5"
@@ -89,9 +101,14 @@
       ]
     },
     {
+      "needs": [
+        "lebensmittelbesorgen"
+      ],
+      "id": "aee793c4-ecc4-4aa9-aebe-a7967a472a45",
       "title": "Champagne Characters",
       "additionalProperties": {
         "future": {
+          "partneredAT": "2020-07-31T12:00:00.000+02:00",
           "isPartner": true,
           "partnerDiscount": 0.1,
           "bonusCode": "FUTUREBONUS"
@@ -116,9 +133,14 @@
       ]
     },
     {
+      "needs": [
+        "klamottenkaufen"
+      ],
+      "id": "b65db892-34c9-462d-acab-b54b0e2cf550",
       "title": "Fair Couture",
       "additionalProperties": {
         "future": {
+          "partneredAT": "2020-09-31T12:00:00.000+02:00",
           "isPartner": true,
           "partnerDiscount": 0.1,
           "bonusCode": "FUTUREBONUS"
@@ -143,9 +165,14 @@
       ]
     },
     {
+      "needs": [
+        "sichpflegen"
+      ],
+      "id": "c51898bf-32f8-4f2f-b45c-6fa204e872c5",
       "title": "Goldeimer",
       "additionalProperties": {
         "future": {
+          "partneredAT": "2020-09-31T12:00:00.000+02:00",
           "isPartner": true,
           "partnerDiscount": 0.1,
           "bonusCode": "FUTUREBONUS"
@@ -170,9 +197,14 @@
       ]
     },
     {
+      "needs": [
+        "sichpflegen"
+      ],
+      "id": "82e9a584-72d9-473b-b3d4-313c86b0fb29",
       "title": "Holledauer Seifenrausch",
       "additionalProperties": {
         "future": {
+          "partneredAT": "2020-08-31T12:00:00.000+02:00",
           "isPartner": true,
           "partnerDiscount": 0.08,
           "bonusCode": "SEIFENBONUS"
@@ -197,9 +229,16 @@
       ]
     },
     {
+      "needs": [
+        "klamottenkaufen",
+        "zuhauseeinrichten",
+        "schuhekaufen"
+      ],
+      "id": "7c39ea37-9ac6-4d78-a382-6de6d0140618",
       "title": "Jesango",
       "additionalProperties": {
         "future": {
+          "partneredAT": "2020-06-31T12:00:00.000+02:00",
           "isPartner": true,
           "partnerDiscount": 0.15,
           "bonusCode": "FUTUREBONUS"
@@ -224,9 +263,15 @@
       ]
     },
     {
+      "needs": [
+        "zuhauseeinrichten",
+        "sichpflegen"
+      ],
+      "id": "df088fb4-e7fd-45d9-b836-cff671bc668b",
       "title": "Leelas",
       "additionalProperties": {
         "future": {
+          "partneredAT": "2020-06-31T12:00:00.000+02:00",
           "isPartner": true,
           "partnerDiscount": 0.1,
           "bonusCode": "FUTUREBONUS"
@@ -251,9 +296,14 @@
       ]
     },
     {
+      "needs": [
+        "zuhauseeinrichten"
+      ],
+      "id": "6827083b-60c3-47d1-b817-1f803148ed23",
       "title": "Lumbono",
       "additionalProperties": {
         "future": {
+          "partneredAT": "2020-08-31T12:00:00.000+02:00",
           "isPartner": true,
           "partnerDiscount": 0.1,
           "bonusCode": "FUTUREBONUS"
@@ -278,9 +328,15 @@
       ]
     },
     {
+      "needs": [
+        "schuhekaufen",
+        "klamottenkaufen"
+      ],
+      "id": "f721c855-054f-402a-a738-47dc8a5452ef",
       "title": "Maqu Store & Studio",
       "additionalProperties": {
         "future": {
+          "partneredAT": "2020-09-31T12:00:00.000+02:00",
           "isPartner": true,
           "partnerDiscount": 0.1,
           "bonusCode": "MAQUFORFUTURE"
@@ -305,9 +361,15 @@
       ]
     },
     {
+      "needs": [
+        "zuhauseeinrichten",
+        "sichpflegen"
+      ],
+      "id": "87b03c65-7969-496c-b064-8ea0d3fd4856",
       "title": "Nordery",
       "additionalProperties": {
         "future": {
+          "partneredAT": "2020-06-31T12:00:00.000+02:00",
           "isPartner": true,
           "partnerDiscount": 0.1,
           "bonusCode": "PQH2S60TCKH3"
@@ -332,9 +394,14 @@
       ]
     },
     {
+      "needs": [
+        "sichengagieren"
+      ],
+      "id": "4e2a6208-3a33-4d17-899b-aff3e4150c9c",
       "title": "Die Praxis",
       "additionalProperties": {
         "future": {
+          "partneredAT": "2020-09-31T12:00:00.000+02:00",
           "isPartner": true,
           "partnerDiscount": 0.2,
           "bonusCode": "Bitte Futuremitgliedschaft bei der Anmeldung erwähnen"
@@ -359,9 +426,14 @@
       ]
     },
     {
+      "needs": [
+        "lebensmittelbesorgen"
+      ],
+      "id": "950fba4c-8bc2-4729-b220-5d50c282c146",
       "title": "Solaris Bio Tee",
       "additionalProperties": {
         "future": {
+          "partneredAT": "2020-06-31T12:00:00.000+02:00",
           "isPartner": true,
           "partnerDiscount": 0.1,
           "bonusCode": "FUTUREBONUS"
@@ -386,9 +458,14 @@
       ]
     },
     {
+      "needs": [
+        "lebensmittelbesorgen"
+      ],
+      "id": "83b76dba-7ea0-486a-949e-0876281daf0b",
       "title": "Trübenecker",
       "additionalProperties": {
         "future": {
+          "partneredAT": "2020-07-31T12:00:00.000+02:00",
           "isPartner": true,
           "partnerDiscount": 0.05,
           "bonusCode": "FUTUREBONUS"
@@ -413,9 +490,12 @@
       ]
     },
     {
+      "needs": [],
+      "id": "9423122a-d046-4167-8144-76c5cfd58458",
       "title": "ver.de BIKE",
       "additionalProperties": {
         "future": {
+          "partneredAT": "2020-07-31T12:00:00.000+02:00",
           "isPartner": true,
           "partnerDiscount": 0.08,
           "bonusCode": "FUTURE01"
@@ -440,9 +520,14 @@
       ]
     },
     {
+      "needs": [
+        "zuhauseeinrichten"
+      ],
+      "id": "d8614ad3-8032-4ad1-b198-15527b3bc93c",
       "title": "Zurück",
       "additionalProperties": {
         "future": {
+          "partneredAT": "2020-09-31T12:00:00.000+02:00",
           "isPartner": true,
           "partnerDiscount": 0.1,
           "bonusCode": "FUTUREBONUS"
