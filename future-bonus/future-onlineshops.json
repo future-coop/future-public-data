@@ -489,6 +489,38 @@
         }
       ]
     },
+   {
+      "needs": [
+        "zuhauseeinrichten"
+      ],
+      "id": "2773615f-3d52-43ad-bd6b-ae58e5c71937",
+      "title": "Turtlebox",
+      "additionalProperties": {
+        "future": {
+          "partneredAT": "2020-09-30T12:00:00.000+02:00",
+          "isPartner": true,
+          "partnerDiscount": 0.05,
+          "bonusCode": "FUTUREBONUS20"
+        }
+      },
+      "description": "Stabile Umzugsboxen mieten statt Umzugskartons kaufen. Bis zu 50% günstiger als Kartons, optimaler Schutz und weniger Müll. TURTLEBOX war bereits 2013 Gewinner des Münchner Umweltpreises. Online reservieren und entweder selbst abholen oder liefern lassen. Den Bonus gibt es auf alle Produkte, nicht aber auf Liefer- oder Abholservice.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": ": https://turtle-box.de/produkte-preise-privat/?utm_source=future&utm_medium=affiliate&utm_campaign=102020futuremuc"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": " https://future.coop/wp-content/uploads/2020/09/turtlebox-bild.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
     {
       "needs": [],
       "id": "9423122a-d046-4167-8144-76c5cfd58458",
