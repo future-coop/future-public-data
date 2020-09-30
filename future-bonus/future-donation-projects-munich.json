@@ -28,7 +28,8 @@
       ]
     },
     {
-      "title": "Olytopia – Das grüne Dorf in der Stadt",
+       "id": "7406d2e0-9a7d-4b83-8a98-8d4c75dfbd55",
+	    "title": "Olytopia – Das grüne Dorf in der Stadt",
       "additionalProperties": {
         "future": {
           "isPartner": true
@@ -53,7 +54,8 @@
       ]
     },
     {
-      "title": "Klimaherbst",
+      "id": "f42779e2-73a8-4e40-b1f2-bb1e99e4a1eb",
+	    "title": "Klimaherbst",
       "additionalProperties": {
         "future": {
           "isPartner": true
@@ -78,7 +80,8 @@
       ]
     },
 	{
-      "title": "Upcycle Your Style – Kleidertauschparty",
+            "id": "d60aea94-ea20-4dc4-8562-f09ea2897c6c",
+		"title": "Upcycle Your Style – Kleidertauschparty",
       "additionalProperties": {
         "future": {
           "isPartner": true
@@ -103,6 +106,7 @@
       ]
     },
 	{
+		"id": "a5f47d33-b711-4b6c-bee2-4e7bc88ca00e",
       "title": "Grünpaten",
       "additionalProperties": {
         "future": {
@@ -128,6 +132,7 @@
       ]
     },
 	{
+	"id": "fd6c8258-9162-4f4b-8522-6b325ac14cd9",
       "title": "Green City-Gemeinschaftsgärten",
       "additionalProperties": {
         "future": {
@@ -154,7 +159,8 @@
     }
 	  ,
     {
-      "title": "Abfall sucht Eimer!",
+         "id": "35fd42a6-cba0-4f0c-ab33-e6743109c55f",     
+	    "title": "Abfall sucht Eimer!",
       "additionalProperties": {
         "future": {
           "isPartner": true
@@ -180,6 +186,7 @@
       ]
     },
 	{
+         "id": "ddb8bc89-0444-49ac-a675-e162582a8ebf",		
       "title": "#beschwerbung",
       "additionalProperties": {
         "future": {
@@ -205,6 +212,7 @@
       ]
     },
 	{
+         "id": "52f6aa3d-0a3c-403a-890c-55a20071005b",		
       "title": "Bellevue di Monaco",
       "additionalProperties": {
         "future": {
@@ -230,6 +238,7 @@
       ]
     },
 	{
+         "id": "8a715fa7-b1f4-4e27-ab70-b3b6209ec58a",		
       "title": "Tierschutz macht Spaß!",
       "additionalProperties": {
         "future": {
@@ -255,6 +264,7 @@
       ]
     },
 	{
+         "id": "97c3ec6e-3363-44a5-a9af-1f8980313ff1",			
       "title": "o’pflanzt is!",
       "additionalProperties": {
         "future": {
