@@ -2,7 +2,8 @@
   "success": true,
   "data": [
     {
-      "title": "Einmal ohne, bitte!",
+    "id": "d9179f9a-5731-4fdf-8b9d-f81dc819ca50",
+	    "title": "Einmal ohne, bitte!",
       "additionalProperties": {
         "future": {
           "isPartner": true
