@@ -2,7 +2,8 @@
   "success": true,
   "data": [
     {
-      "title": "Himmelbeet",
+    "id": "5e213665-c9bc-4bfb-9c10-34ae7e544f43",     
+	    "title": "himmelbeet",
       "additionalProperties": {
         "future": {
           "isPartner": true
@@ -27,6 +28,7 @@
       ]
     },
     {
+    "id": "e27b41e4-4852-4eb4-a8c4-5eb145aa0940",  	    
       "title": "SEND - Social Entrepreneurship Netzwerk Deutschland e.V.",
       "additionalProperties": {
         "future": {
@@ -53,6 +55,7 @@
       ]
     },
 	{
+    "id": "3b6adc47-37f7-40c5-8215-d298549f0657",  		
       "title": "GemüseAckerdemie",
       "additionalProperties": {
         "future": {
@@ -79,6 +82,7 @@
     }
 	,
 	{
+    "id": "49f1e435-bec1-4648-ac20-1e557d77fa5d", 		
       "title": "Restlos Glücklich",
       "additionalProperties": {
         "future": {
@@ -104,6 +108,7 @@
       ]
     },
 	{
+    "id": "ab232b7e-a164-487c-a24c-fcc9afcf5621", 		
       "title": "Prinzessinnengarten Kollektiv Berlin",
       "additionalProperties": {
         "future": {
@@ -129,6 +134,7 @@
       ]
     },
 	{
+    "id": "bd06ab8a-c706-4582-ac51-2c8f6226d6f3",		
       "title": "Refugio Berlin - eine wahrhaft gelebte Utopie",
       "additionalProperties": {
         "future": {
