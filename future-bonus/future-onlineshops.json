@@ -99,6 +99,38 @@
           "license": "CC0-1.0"
         }
       ]
+    },  
+    {
+      "needs": [
+        "zuhauseinrichten"
+      ],
+      "id": "026f46a0-16bf-43e6-b86c-85fb11e4124a",
+      "title": "Caracda",
+      "additionalProperties": {
+        "future": {
+          "partneredAT": "2020-10-02T12:00:00.000+02:00",
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "bonusCode": "FUTUREBONUS"
+        }
+      },
+      "description": "caracda.de ist dein Online Shop für Produkte mit Charakter. Kauf bewusst, kauf besser – lautet das Motto des Münchner Startups. Online findest du eine einzigartige Auswahl an Lieblingsstücken für zuhause und unterwegs. Gefertigt von unabhängigen Marken und Manufakturen mit starken Werten. Sorgsam hat das kleine Team jedes Produkt für dich ausgewählt und auf Herz und Nieren geprüft, denn Langlebigkeit und Nachhaltigkeit liegt caracda.de am Herzen.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://caracda.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/10/caracda.png",
+          "license": "CC0-1.0"
+        }
+      ]
     },
     {
       "needs": [
@@ -108,7 +140,7 @@
       "title": "Champagne Characters",
       "additionalProperties": {
         "future": {
-          "partneredAT": "2020-07-31T12:00:00.000+02:00",
+          "partneredAT": "2020-07-02T12:00:00.000+02:00",
           "isPartner": true,
           "partnerDiscount": 0.1,
           "bonusCode": "FUTUREBONUS"
