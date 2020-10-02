@@ -489,6 +489,38 @@
         }
       ]
     },
+     {
+      "needs": [
+        "sichengagieren"
+      ],
+      "id": "c06506dc-6728-4d73-b34e-8997aad8d1ab",
+      "title": "The Purpose Fellowship",
+      "additionalProperties": {
+        "future": {
+          "partneredAT": "2020-10-02T12:00:00.000+02:00",
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "bonusCode": "Future"
+        }
+      },
+      "description": "The Purpose Fellowship supports purpose-driven professionals to build a career they love, are fulfilled by and that serves a greater good. Join an international community of like minded people in a 9-week peer-to-peer coaching programme created by tbd* and The Arc and take your leap towards a more meaningful career.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.tbd.community/en/purpose-fellowship"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/10/Purpose-fellowship.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
     {
       "needs": [
         "lebensmittelbesorgen"
