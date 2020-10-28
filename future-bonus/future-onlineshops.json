@@ -457,7 +457,37 @@
         }
       ]
     },
-    {
+       {
+      "needs": ["klamottenkaufen"],
+      "id": "31617a62-e0d9-4c62-8f8a-3644bb4170a8",
+      "title": "PLANETICS",
+      "additionalProperties": {
+        "future": {
+          "partneredAT": "2020-10-28T12:00:00.000+02:00",
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "bonusCode": "FUTUREBONUS"
+        }
+      },
+      "description": "PLANETICS ist dein Marktplatz für ausschließlich nachhaltige und faire Sportartikel (aus den Bereichen Bekleidung, Equipment und Nutrition).",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.planetics.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/10/app_hero_image.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+ {
       "needs": [
         "lebensmittelbesorgen"
       ],
