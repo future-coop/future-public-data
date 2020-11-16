@@ -489,6 +489,39 @@
     },
  {
       "needs": [
+        "sichpflegen",
+        "putzenundwaschen"
+      ],
+      "id": "d4ff4247-82c4-4aec-8c39-6de3fbc03d10",
+      "title": "Seifenbrause",
+      "additionalProperties": {
+        "future": {
+          "partneredAT": "2020-11-16T12:00:00.000+02:00",
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "bonusCode": "FUTUREBONUS"
+        }
+      },
+      "description": "Sause ist die nachhaltige Alternative zur herkömmlichen Flüssigseife. Aus Wasser und Brausetablette wird deine Seifenlotion. Kein Transport von Wasser, kein Einwegplastik, 100% vegan.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.seifenbrause.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/11/FB_Titelbild_Waschbecken-1.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "needs": [
         "lebensmittelbesorgen"
       ],
       "id": "950fba4c-8bc2-4729-b220-5d50c282c146",
