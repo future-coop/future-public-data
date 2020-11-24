@@ -327,6 +327,38 @@
         }
       ]
     },
+     {
+      "needs": [
+        "sichpflegen"
+      ],
+      "id": "4b54dcf7-ebc9-4761-b972-c33017bf627a",
+      "title": "Less Waste Club",
+      "additionalProperties": {
+        "future": {
+          "partneredAT": "2020-11-24T12:00:00.000+02:00",
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "bonusCode": "FUTUREBONUS"
+        }
+      },
+      "description": "Der Less Waste Club bietet nachhaltige „Waterless“ Körperpflegeprodukte, die ohne überflüssige Verpackung auskommen. 90% der herkömmlichen Pflegeprodukte besteht aus Wasser. Das Münchner Start Up verzichtet genau auf diesen Inhaltsstoff und liefert seine Produkte in Pulverform direkt zu dir nach Hause. Erst durch die Zugabe von Wasser zu Hause entsteht dann das flüssige Duschgel. Gewohntes Duscherlebnis aber eben nachhaltig. Das Pulver ist in einem Papier-Sachet verpackt. Dank der Gewichts- und Volumensreduktion wird viel C02 eingespart. 100% Made in Germany, maximale Transparenz bei den Inhaltsstoffen, kein Mikroplastik, keine Tierversuche, keine Silikone.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": " https://www.lesswasteclub.de/online-shop/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/11/DUSCHGELPULVER.png",
+          "license": "CC0-1.0"
+        }
+      ]
+    },  
     {
       "needs": [
         "zuhauseeinrichten"
