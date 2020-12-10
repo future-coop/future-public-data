@@ -158,6 +158,32 @@
           "license": "CC0-1.0"
         }
       ]
+    },
+	{
+      "title": "Äpfel & Konsorten e.V.",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true
+        }
+      },
+      "description": "In den letzten Jahrzehnten sind die Streuobstbestände in Deutschland und besonders in Brandenburg stark zurückgegangen, unter anderem durch die Zahlung von Abholzprämien. Dagegen tun wir etwas, der Äpfel & Konsorten e.V.! Denn Streuobstwiesen haben eine hohe ökologische Bedeutung: Sie sind Biotope für bis zu 6.000, teilweise sehr seltene, Tier- und Pflanzenarten und zählen damit zu den artenreichsten Lebensräumen Mitteleuropas. Streuobstbiotope dienen als Wasserfilter und schützen das Grundwasser, sie wirken der Bodenerosion entgegen und fördern die Anreicherung von Humus. Wir pachten Wiesen, pflanzen und pflegen Bäume, bringen Streuobst-Akteur*innen der ganzen Region zusammen und organisieren Netzwerk- und Bildungsveranstaltungen. Wir haben uns viel vorgenommen: 250 neue Bäume sollen jedes Jahr gepflanzt werden, Flächen müssen gekauft oder gepachtet werden und unsere Botschaft “Reclaim Streuobstwiesen” weit verbreitet werden.
+",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.aepfelundkonsorten.org"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/12/aepfel-konsorten_bearb.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
     }
   ]
 }
