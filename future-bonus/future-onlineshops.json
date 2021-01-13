@@ -166,6 +166,38 @@
     },
     {
       "needs": [
+        "klamottenkaufen",
+              ],
+      "id": "4eb6e9bb-2355-44ec-92d3-c8e34817b2ba",
+      "title": "colorswell handmade design",
+      "additionalProperties": {
+        "future": {
+          "partneredAT": "2021-01-12T12:00:00.000+02:00",
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "bonusCode": "FUTUREBONUS"
+        }
+      },
+      "description": "Stephanie und Sebastian sammeln angespülte Seile und Fischernetze am Strand, reinigen diese und designen daraus liebevoll handgemachte und einzigartige Upcycling Accessoires. Ob Armbänder, Ketten, Treibholzbilder oder Hundeleinen, es ist für jeden etwas dabei. Sie spenden einen Teil ihres Erlöses an eine Münchner Meeresschutzorganisation, geben Tipps um Plastik und Müll zu vermeiden und setzen sich aktiv für den Erhalt unseres Lebensraums ein.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "www.colorswell.de"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2021/01/colorswell-scaled.jpeg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "needs": [
         "klamottenkaufen"
       ],
       "id": "b65db892-34c9-462d-acab-b54b0e2cf550",
