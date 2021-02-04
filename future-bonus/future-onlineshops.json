@@ -35,25 +35,24 @@
     },
     {
       "needs": [
-        "klamottenkaufen",
-        "zuhauseeinrichten"
+        "putzenundwaschen"
       ],
-      "id": "4eb6e9bb-2355-44ec-92d3-c8e34817b2ba",
-      "title": "Folkdays",
+      "id": "5b6a592f-5954-461c-95b4-b3ec5ef54f9d",
+      "title": "Everdrop",
       "additionalProperties": {
         "future": {
-          "partneredAT": "2020-07-31T12:00:00.000+02:00",
+          "partneredAT": "2021-02-04T12:00:00.000+02:00",
           "isPartner": true,
-          "partnerDiscount": 0.1,
-          "bonusCode": "FUTUREBONUS"
+          "partnerDiscount": 0.15,
+          "bonusCode": "Future15"
         }
       },
-      "description": "FOLKDAYS bietet Fair Fashion, Accessoires, Schmuck und Interior-Produkte mit anspruchsvollem, zeitgenössischen Design. Das kleine Berliner Team pflegt direkte und persönliche Beziehungen zu ihren Artisans weltweit.",
+      "description": "Beim Gewinner des deutschen Nachhaltigkeitspreises 2021 könnt ihr nachhaltige, vegan & tierversuchsfreie Reinigungsprodukte kaufen und dabei Verpackungsmüll meiden.",
       "contact": {
         "websites": [
           {
             "primary": true,
-            "url": "https://folkdays.de/"
+            "url": "https://www.everdrop.de/"
           }
         ]
       },
@@ -61,7 +60,7 @@
         {
           "_id": "5e6765ade7485b5a49458b5d",
           "primary": true,
-          "url": "https://future.coop/wp-content/uploads/2020/04/Mood_FOLKDAYS-002.jpg",
+          "url": "https://future.coop/wp-content/uploads/2021/02/KüchenSet_Bearbeitet.png",
           "license": "CC0-1.0"
         }
       ]
@@ -229,6 +228,38 @@
       ]
     },
     {
+      "needs": [
+        "klamottenkaufen",
+        "zuhauseeinrichten"
+      ],
+      "id": "4eb6e9bb-2355-44ec-92d3-c8e34817b2ba",
+      "title": "Folkdays",
+      "additionalProperties": {
+        "future": {
+          "partneredAT": "2020-07-31T12:00:00.000+02:00",
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "bonusCode": "FUTUREBONUS"
+        }
+      },
+      "description": "FOLKDAYS bietet Fair Fashion, Accessoires, Schmuck und Interior-Produkte mit anspruchsvollem, zeitgenössischen Design. Das kleine Berliner Team pflegt direkte und persönliche Beziehungen zu ihren Artisans weltweit.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://folkdays.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/04/Mood_FOLKDAYS-002.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    }, {
       "needs": [
         "sichpflegen"
       ],
