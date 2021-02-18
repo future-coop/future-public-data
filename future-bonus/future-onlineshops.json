@@ -400,7 +400,7 @@
         "future": {
           "partneredAT": "2020-11-24T12:00:00.000+02:00",
           "isPartner": true,
-          "partnerDiscount": 0.1,
+          "partnerDiscount": 0.15,
           "bonusCode": "FUTUREBONUS"
         }
       },
