@@ -489,6 +489,39 @@
     },
     {
       "needs": [
+        "klamottenkaufen",
+        "zuhauseeinrichten"
+      ],
+      "id": "4776a6ca-b89d-4469-b119-e275bab31401",
+      "title": "Nata Y Limón",
+      "additionalProperties": {
+        "future": {
+          "partneredAT": "2021-03-21T12:00:00.000+02:00",
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "bonusCode": "FUTUREBONUS"
+        }
+      },
+      "description": "Nata Y Limón ist ein Design-Label für handgefertigte Fashion Accessoires und Interior, welche gemeinsam mit Meisterinnen der Webkunst in Guatemala hergestellt werden. Im Fokus steht die Unterstützung von indigenen Frauen und das Schaffen einer sicheren Einnahmequelle mittels der uralten Maya Textilkunst. Premium. Ethical. Craft.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.nataylimon.de/?utm_source=direct&utm_medium=website&utm_campaign=future_coop&utm_content=homepage"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2021/03/nyl1.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "needs": [
         "zuhauseeinrichten",
         "sichpflegen"
       ],
