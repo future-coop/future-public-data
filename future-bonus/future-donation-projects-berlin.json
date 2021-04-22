@@ -1,7 +1,32 @@
 {
   "success": true,
   "data": [
-    {
+   {
+      "title": "Future Map",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true
+        }
+      },
+      "description": "Auf unserer Future Map sammeln wir all die Unternehmen und Initiativen, die konsequent fair und ökologisch verantwortlich handeln. So soll es super einfach werden, für alle Alltagsbedarfe gute nachhaltige Alternativen zu finden. Die Map soll komplett kostenlos für alle bleiben, daher freuen wir uns sehr über Spenden für die Weiterentwicklung :)",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://map.future.coop/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "9bc61e43-c6ae-4cc5-b98b-532e26aebc0c",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2021/04/Future-Map-Screenshot-f%C3%BCr-Future-Bonus.png",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+	  {
     "id": "5e213665-c9bc-4bfb-9c10-34ae7e544f43",     
 	    "title": "himmelbeet",
       "additionalProperties": {
