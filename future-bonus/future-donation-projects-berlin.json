@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": [
-   {
+   {"id": "9bc61e43-c6ae-4cc5-b98b-532e26aebc0c",
       "title": "Future Map",
       "additionalProperties": {
         "future": {
